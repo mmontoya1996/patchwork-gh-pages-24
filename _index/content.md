@@ -1,14 +1,14 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg"
+name: "Ethan Carter Pompey"
+title: "Back-End Developer -- Google Cloud Platform"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Ethan is a Google Cloud Platform Developer with 5 years experience working with JavaScript, Python, and Ruby.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+His accomplishments include designing and building career-oriented software development programs at [Jimtown High School](http://generalassemb.ly) while managing a national team of 16, building online courses for public school districts as a freelance consultant, and founding [AsterCorps](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+Ethan is available for projects on a case by case basis. Some of the services he provides include:
 
 #### Strategic Consulting
 * Competitive analysis
@@ -20,8 +20,8 @@ Adrian is available for projects on a case by case basis. Some of the services h
 #### Management Consulting
 * Oranization structuring
 * Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
+* Development coaching
+* Interviewing, testing, and onboarding process creation
 
 #### Education Design and Management
 * Course development
